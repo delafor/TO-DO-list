@@ -109,12 +109,12 @@ ion-icon {
 }
  
 .remove-btn { 
-    right: 0;
-} 
+    right: 0;  
+}
 
 .remove-btn:hover { 
     color: #fff; 
-    background-color: red;
+    background-color: red; 
 }
   
 .hide { 
